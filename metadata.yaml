@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1992
     wikipedia: http://en.wikipedia.org/wiki/Brander_Matthews
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39434#Vistas-of-New-York
 gutenberg_issued: '2012-04-12'
 gutenberg_type: Text
 identifiers:
