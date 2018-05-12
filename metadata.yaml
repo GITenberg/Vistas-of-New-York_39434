@@ -1,0 +1,38 @@
+_repo: Vistas-of-New-York_39434
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39434-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Matthews, Brander
+    aliases:
+    - Matthews, James Brander
+    - Matthews, J. Brander (James Brander)
+    - Penn, Arthur
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '1992'
+    url: http://www.gutenberg.org/2009/agents/1992
+    wikipedia: http://en.wikipedia.org/wiki/Brander_Matthews
+description: ''
+gutenberg_issued: '2012-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39434'
+  lccn: '12004767'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- !lcsh 'New York (N.Y.) -- Fiction'
+tableOfContents: A young man from the country -- On the steps of the city hall --
+  "Sisters under their skins" -- Under an April sky -- An idyl of Central Park --
+  In a hansom -- The frog that played the trombone -- On an errand of mercy -- In
+  a bob-tail car -- In the small hours -- Her letter to his second wife -- The shortest
+  day in the year.
+title: Vistas of New York
+url: http://www.gutenberg.org/ebooks/39434
